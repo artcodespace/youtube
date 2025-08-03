@@ -1,7 +1,13 @@
 # AIMS
 
 To create a minimal neovim setup that is usable in a typescript project.
-Ref: https://github.com/artcodespace/youtube/tree/main/neovim-0.11-setup
+Requirements:
+
+- a way to view the folder system (netrw)
+- a way to quickly search the folder system (fzf-lua)
+- completion and language help (nvim-lspconfig, nvim-treesitter)
+- automatic formatting (conform)
+  Ref: https://github.com/artcodespace/youtube/tree/main/neovim-0.11-setup
 
 # PREREQUISITES
 
