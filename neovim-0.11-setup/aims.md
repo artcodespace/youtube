@@ -1,7 +1,7 @@
 # AIMS
 
 To create a minimal neovim setup that is usable in a typescript project.
-Ref:
+Ref: https://github.com/artcodespace/youtube/tree/main/neovim-0.11-setup
 
 # PREREQUISITES
 
