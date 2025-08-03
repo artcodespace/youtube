@@ -1,5 +1,5 @@
 {
-  description = "neovim-0.11-setup flake";
+  description = "neovim-0.11-setup";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
@@ -29,6 +29,7 @@
         name = "neovim-0.11-setup-nix-profile-" + displayName;
         paths = with pkgs;
           [
+            #
             neovim
             fzf
             nodejs_22
