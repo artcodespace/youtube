@@ -1,0 +1,4 @@
+- start a nixos container
+  - `docker run -it nixos/nix`
+- run the flake for the lesson to install the profile
+  -
