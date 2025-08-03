@@ -28,3 +28,4 @@ Ref: https://github.com/artcodespace/youtube/tree/main/neovim-0.11-setup
   - fuzzy finder (fzf-lua)
   - lsp helper (nvim-lspconfig)
   - syntax tree helper (nvim-treesitter)
+- try out a js and ts file to troubleshoot issues
